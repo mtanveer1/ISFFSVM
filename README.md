@@ -2,7 +2,7 @@
 
 Please cite the following paper if you are using this code. 
 
-M. Tanveer, Anushka Tiwari, C.T. Lin. Enhancing Imbalance Learning: A Novel Slack-Factor Fuzzy SVM Approach. (Under revision in IEEE Transactions on Emerging Topics in Computational Intelligence)
+M. Tanveer, A. Tiwari, M. Akhtar and C. -T. Lin, "Enhancing Imbalance Learning: A Novel Slack-Factor Fuzzy SVM Approach," in IEEE Transactions on Emerging Topics in Computational Intelligence, vol. 9, no. 4, pp. 3112-3121, Aug. 2025, doi: 10.1109/TETCI.2024.3524718 
 
 In this paper, we propose an improved slack-factor-based FSVM (ISFFSVM) to tackle imbalance learning by introducing a novel location parameter. This parameter significantly advances the model by constraining the DEC hyperplane's extension, thereby mitigating the risk of misclassifying minority class samples. It ensures that majority class samples with slack factor scores approaching the location threshold are assigned lower fuzzy memberships, enhancing the model's discrimination capability.
 
